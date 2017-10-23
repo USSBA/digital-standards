@@ -1,7 +1,6 @@
 ---
 title: Voice & Tone
 permalink: /voice-and-tone
-
 layout: single
 author_profile: false
 sidebar:
