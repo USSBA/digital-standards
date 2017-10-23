@@ -1,14 +1,10 @@
 main:
   - title: Content Style Guide
-    url: /
-  - title: Visual Style Guide
-    url: /
-  - title: Content Entry Guide
-    url: /
+    url: /goals-and-principles
 
 docs:
   - title: Goals and principles
-    url: /
+    url: /goals-and-principles
   - title: Voice and tone
     url: /voice-and-tone
   - title: Formatting
