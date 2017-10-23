@@ -1,12 +1,17 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: Content Style Guide
+    url: /
+  - title: Visual Style Guide
+    url: /
+  - title: Content Entry Guide
+    url: /
+
+docs:
+  - title: Goals and principles
+    url: /
+  - title: Voice and tone
+    url: /voice-and-tone
+  - title: Formatting
+    url: /formatting
+  - title: Editorial style guide
+    url: /editorial-style-guide
