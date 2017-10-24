@@ -1,8 +1,6 @@
 ---
 title: Editorial Style Guide
 permalink: /editorial-style-guide/
-layout: single
-author_profile: false
 sidebar:
   nav: "docs"
 ---
