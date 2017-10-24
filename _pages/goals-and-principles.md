@@ -1,6 +1,7 @@
 ---
 title: Goals & Principles
 permalink: /goals-and-principles/
+redirect_from: "/"
 layout: single
 author_profile: false
 sidebar:
